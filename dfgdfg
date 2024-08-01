@@ -1,5 +1,5 @@
 getgenv().bot_name  = "Min" .. game.Players.LocalPlayer.Name --/ change name with quotation mark. ex : "Min" or 'Min'
-getgenv().bot_owner = "gold902341" --/ this too
+getgenv().bot_owner = "GPTbot_1" --/ this too
 getgenv().slashtorespond = false --/ respond to player when they say /botin [msg]
 getgenv().max_dist = 50 --/ respond to player in distance
 
